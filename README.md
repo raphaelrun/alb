@@ -8,3 +8,6 @@ Deploy EC2 instances in multiple AZs, Application Load Balancer and ACM
 * Create an SSL certificate using AWS Certificate Manager
 
 Blog Post --> https://medium.com/@gmusumeci/how-to-deploy-ec2-instances-in-multiple-azs-with-a-load-balancer-and-sll-certificate-in-aws-with-b5c7ad941ead
+
+
+git reset --hard HEAD~3
